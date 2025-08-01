@@ -2,6 +2,8 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
+.idea/
+gambling-simulator.iml
 
 ### Eclipse ###
 .apt_generated

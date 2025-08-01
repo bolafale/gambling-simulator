@@ -12,7 +12,7 @@ public class Main {
     public static void main(String[] args) throws Exception {
         clearScreen();
         System.out.println(colorText("""
-                 $  _____              __  __   ____    _        _____   _   _    _____
+                    _____              __  __   ____    _        _____   _   _    _____
                  $ / ____|     /\\     |  \\/  | |  _ \\  | |      |_   _| | \\ | |  / ____|
                  $| |  __     /  \\    | \\  / | | |_) | | |        | |   |  \\| | | |  __
                  $| | |_ |   / /\\ \\   | |\\/| | |  _ <  | |        | |   | . ` | | | |_ |
