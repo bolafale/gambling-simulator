@@ -1,4 +1,5 @@
 # HELLO! this is my gambling simulator  
+download it [here](https://github.com/bolafale/gambling-simulator/releases/)
 
 # HOW DO YOU PLAY THIS??
 - in this terminal game you spin a slot machine until you win.  
